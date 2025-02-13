@@ -54,7 +54,7 @@ sections:
         icon: arrowUpRight
         iconPosition: left
         style: secondary
-        elementId: ''
+        elementId: Button
     text: ''
     media:
       type: ImageBlock
