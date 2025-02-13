@@ -5,10 +5,6 @@ colors: colors-a
 date: '2021-12-20'
 client: ''
 description: ''
-featuredImage:
-  type: ImageBlock
-  url: /images/istockphoto-913271198-612x612.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
