@@ -136,13 +136,6 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
         - name: address
           label: Address
           hideLabel: true
