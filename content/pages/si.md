@@ -7,9 +7,14 @@ sections:
     variant: variant-a
     title: DIJISTE SI ????
     subtitle: yeiiiiiiii
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      Que bueno que si mi vida solo para recordarte que te amo mucho mi vida se
+      que no es la gran cosa pero la intención y las ganas es lo que cuenta no
+      ???
+
+
+      Espero que al menos te saque una sonrisa mi vida yyyy nos vemos el viernes
+      al salir va ????![](/images/792e4a29bf426bafc08cc7c5fad40754.jpg)
     elementId: ''
     styles:
       self:
