@@ -7,7 +7,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/istockphoto-913271198-612x612.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
