@@ -13,7 +13,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: SAN VALENTIN
     subtitle: ''
     styles:
