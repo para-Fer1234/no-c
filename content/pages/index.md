@@ -47,7 +47,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: SI??
         altText: ''
         url: /si
         showIcon: true
