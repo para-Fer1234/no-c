@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Dijiste si ????
+title: SI
 colors: colors-a
 date: '2025-02-14'
 client: ''
