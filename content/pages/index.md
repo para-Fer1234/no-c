@@ -45,6 +45,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      PD: te amo
   - type: FeaturedProjectsSection
     subtitle: ''
     actions: []
