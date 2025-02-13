@@ -1,20 +1,4 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [],
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
-    }
+    "favicon": "/images/favicon.svg"
 }
