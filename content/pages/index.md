@@ -135,12 +135,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      fields:
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
+      fields: []
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
