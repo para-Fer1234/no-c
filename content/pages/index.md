@@ -4,7 +4,8 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: >-
+    /images/50565788-san-valentín-de-fondo-de-color-rosa-con-el-corazón-rojo-pequeño-y-grande-de-color-rosa-con-la.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
