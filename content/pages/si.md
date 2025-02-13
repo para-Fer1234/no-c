@@ -14,7 +14,13 @@ sections:
 
 
       Espero que al menos te saque una sonrisa mi vida yyyy nos vemos el viernes
-      al salir va ????![](/images/792e4a29bf426bafc08cc7c5fad40754.jpg)
+      al salir va ????
+
+
+      Vamos a salir adelante juntos mi vida ☺
+
+
+      ![](/images/792e4a29bf426bafc08cc7c5fad40754.jpg)
     elementId: ''
     styles:
       self:
