@@ -14,7 +14,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: ''
+    title: SAN VALENTIN
     subtitle: ''
     styles:
       self:
