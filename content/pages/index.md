@@ -51,7 +51,7 @@ sections:
         url: /si
         showIcon: true
         icon: apple
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
     text: ''
