@@ -7,9 +7,14 @@ sections:
     variant: variant-a
     title: ÑO???
     subtitle: 'meño '
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      Pero vas a decir que si por las buenas o las malas 
+
+
+
+      ![](/images/1f608.png)
+
+      muajajajaj
     elementId: ''
     styles:
       self:
