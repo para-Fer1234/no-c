@@ -50,7 +50,7 @@ sections:
         altText: ''
         url: /si
         showIcon: false
-        icon: apple
+        icon: arrowLeft
         iconPosition: right
         style: secondary
         elementId: ''
