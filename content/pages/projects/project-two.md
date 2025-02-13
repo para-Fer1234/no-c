@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: '          NO'
+title: 'NO'
 colors: colors-a
 date: '2021-12-20'
 client: ''
