@@ -51,7 +51,7 @@ sections:
         url: /si
         showIcon: false
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: secondary
         elementId: ''
     text: ''
