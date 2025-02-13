@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ÑO???
-    subtitle: The section subtitle
+    subtitle: 'meño '
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
