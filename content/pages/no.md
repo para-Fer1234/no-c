@@ -42,7 +42,7 @@ sections:
         label: '??'
         altText: ''
         url: /si
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
