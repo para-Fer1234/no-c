@@ -15,7 +15,9 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: SAN VALENTIN
-    subtitle: ''
+    subtitle: >-
+      Hola mi amor solo para preguntarte si de pura casualidad te gustaria ser
+      mi san valentin????
     styles:
       self:
         height: auto
