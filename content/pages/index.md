@@ -52,31 +52,4 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: FeaturedProjectsSection
-    subtitle: ''
-    actions: []
-    projects: []
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: false
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
 ---
