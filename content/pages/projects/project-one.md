@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: SI
 colors: colors-a
-date: '2025-02-15'
+date: '2025-02-14'
 client: ''
 description: ''
 featuredImage:
