@@ -49,7 +49,7 @@ sections:
         label: Learn more
         altText: ''
         url: /si
-        showIcon: false
+        showIcon: true
         icon: arrowLeft
         iconPosition: right
         style: secondary
