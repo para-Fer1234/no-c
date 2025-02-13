@@ -56,7 +56,7 @@ sections:
         style: secondary
         elementId: ButtonS
       - type: Button
-        label: Learn more
+        label: NO??
         altText: ''
         url: /no
         showIcon: false
