@@ -48,15 +48,6 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: SI??
-        altText: ''
-        url: /si
-        showIcon: false
-        icon: arrowUpRight
-        iconPosition: left
-        style: secondary
-        elementId: ButtonS
-      - type: Button
         label: NO??
         altText: ''
         url: /no
@@ -65,6 +56,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: SI??
+        altText: ''
+        url: /si
+        showIcon: false
+        icon: arrowUpRight
+        iconPosition: left
+        style: secondary
+        elementId: ButtonS
     text: ''
     media:
       type: ImageBlock
