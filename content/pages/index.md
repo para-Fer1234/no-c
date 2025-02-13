@@ -50,7 +50,7 @@ sections:
         label: SI??
         altText: ''
         url: /si
-        showIcon: true
+        showIcon: false
         icon: arrowUpRight
         iconPosition: left
         style: secondary
